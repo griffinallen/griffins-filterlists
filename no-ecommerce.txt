@@ -1,0 +1,11 @@
+! Title: No Ecommerce
+! Last modified: 2025-12-10
+! Expires: 4 days (update frequency)
+
+!--------------------------Blocking E-commerce sites-----------------------------!
+||amazon.^
+||ebay.^
+||amazon.^
+||etsy.^
+||aliexpress.^
+||rakuten.^

@@ -1,8 +1,8 @@
 ! Title: Griffin's Annoyance List
-! Last modified: %timestamp%
+! Last modified: 2025-12-10
 ! Expires: 4 days (update frequency)
 
 !--------------------------General blocking rules-----------------------------!
 
 ! vuetifyjs.com
-#app-toc > div.v-navigation-drawer__append
+vuetifyjs.com###app-toc > div.v-navigation-drawer__append

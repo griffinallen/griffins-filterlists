@@ -7,4 +7,4 @@
 ! vuetifyjs.com
 vuetifyjs.com###app-toc > div.v-navigation-drawer__append
 vuetifyjs.com##a[href="/en/one/"]
-vuetifyjs.com##a[href="https://store.vuetifyjs.com/*"]
+vuetifyjs.com##a[href^="https://store.vuetifyjs.com/"]

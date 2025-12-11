@@ -3,18 +3,18 @@
 ! Expires: 4 days (update frequency)
 
 !--------------------------Blocking E-commerce sites-----------------------------!
-||amazon.com^
-||amazon.ca^
-||amazon.co.uk^
-||amazon.de^
-||amazon.fr^
-||amazon.it^
-||amazon.es^
-||amazon.com.au^
-||amazon.co.jp^
-||amazon.in^
-||ebay.com^
-||ebay.ca^
-||etsy.com^
-||aliexpress.com^
-||rakuten.com^
+||amazon.com^$document
+||amazon.ca^$document
+||amazon.co.uk^$document
+||amazon.de^$document
+||amazon.fr^$document
+||amazon.it^$document
+||amazon.es^$document
+||amazon.com.au^$document
+||amazon.co.jp^$document
+||amazon.in^$document
+||ebay.com^$document
+||ebay.ca^$document
+||etsy.com^$document
+||aliexpress.com^$document
+||rakuten.com^$document

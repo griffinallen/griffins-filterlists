@@ -15,6 +15,6 @@
 ||amazon.in^$all
 ||ebay.com^$all
 ||ebay.ca^$all
-||etsy.com^$document
+||etsy.com^$all
 ||aliexpress.com^$all
 ||rakuten.com^$all

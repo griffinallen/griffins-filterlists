@@ -3,4 +3,16 @@
 ! Expires: 4 days (update frequency)
 
 !--------------------------Blocking Cookie Banner-----------------------------!
-cnn.com##div#onetrust-banner-sdk
+! Dec 17, 2025 https://www.cnn.com/
+||www.cnn.com^
+||lightning.cnn.com^
+||cdn.optimizely.com^
+||registry.api.cnn.io^
+||cdnjs.cloudflare.com^
+||fave.api.cnn.io^
+||accounts.google.com^
+||cdn.jsdelivr.net^
+||default.any-any.prd.api.bolt.cnn.com^
+||services.brightline.tv^
+||out053a3bejgh7t0phqa0csou.litix.io^
+||events.brightline.tv^
